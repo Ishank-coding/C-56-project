@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: burlywood;
+}
+
+div {
+    margin-top:15px;
+}
+
+.imagesection {
+    display: flex;
+    justify-content: center;
+}
+
+.sectionstyle {
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: white;
+}
+
+img {
+    height: 350px;
+    width: 650px;
+}
+
+
